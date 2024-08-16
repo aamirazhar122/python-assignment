@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "cnai_python_starter_template",
+			"path": "../../../../../cnai_python_starter_template"
+		}
+	],
+	"settings": {}
+}
